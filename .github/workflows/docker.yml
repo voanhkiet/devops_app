@@ -1,4 +1,4 @@
-name: Day5: CI/CD with Docker Hub
+name: Day5: CI/CD with Docker 
 
 on:
   push:
